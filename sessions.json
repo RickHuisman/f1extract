@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Austrian Grand Prix",
+    "start": "2020-07-03",
+    "end": "2020-07-05",
+    "sessions": [
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-05_Austrian_Grand_Prix/2020-07-03_Practice_1/",
+        "session": "p1"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-05_Austrian_Grand_Prix/2020-07-03_Practice_2/",
+        "session": "p2"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-05_Austrian_Grand_Prix/2020-07-04_Practice_3/",
+        "session": "p3"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-05_Austrian_Grand_Prix/2020-07-04_Qualifying/",
+        "session": "q"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-05_Austrian_Grand_Prix/2020-07-05_Race/",
+        "session": "r"
+      }
+    ]
+  },
+  {
+    "name": "Styrian Grand Prix",
+    "start": "2020-07-10",
+    "end": "2020-07-12",
+    "sessions": [
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-10_Styrian_Grand_Prix/2020-07-10_Practice_1/",
+        "session": "p1"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-10_Styrian_Grand_Prix/2020-07-10_Practice_2/",
+        "session": "p2"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-11_Styrian_Grand_Prix/2020-07-11_Practice_3/",
+        "session": "p3"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-11_Styrian_Grand_Prix/2020-07-11_Qualifying/",
+        "session": "q"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/",
+        "session": "r"
+      }
+    ]
+  },
+  {
+    "name": "Hungarian Grand Prix",
+    "start": "2020-07-17",
+    "end": "2020-07-19",
+    "sessions": [
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-17_Hungrian_Grand_Prix/2020-07-17_Practice_1/",
+        "session": "p1"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-17_Hungrian_Grand_Prix/2020-07-17_Practice_2/",
+        "session": "p2"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-18_Hungrian_Grand_Prix/2020-07-18_Practice_3/",
+        "session": "p3"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-18_Hungrian_Grand_Prix/2020-07-18_Qualifying/",
+        "session": "q"
+      },
+      {
+        "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungrian_Grand_Prix/2020-07-19_Race/",
+        "session": "r"
+      }
+    ]
+  }
+]
